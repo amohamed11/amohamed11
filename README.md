@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🌱 I’m a final year computing science student @ University of Alberta 
-- 🔭 I’m currently contributing to Eclipse OpenJ9 platform as a part of the CANOSP program 
-- 📫 How to reach me: amohamed@ualberta.ca
+- ⚡ Currently contributing to Eclipse OpenJ9 platform as a part of the CANOSP program 
 - 😄 Pronouns: He/Him
-- ⚡ Hobbies: Anime, Games & Fantasy Books  
+- ⚽ Hobbies: anime, video games & fantasy novels  
+- 📫 Personal website: [amohamed.io](http://amohamed.io)
 
 [![Anas' github stats](https://github-readme-stats.vercel.app/api?username=amohamed11&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
