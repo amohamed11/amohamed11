@@ -6,8 +6,8 @@ Call me Anas.
 Hi there 👋🏿, my name is Anas & I’m currently wrapping up my final year of Computing Science @ University of Alberta.  
 I like learning new things & fiddling with stuff.  
 Areas I'm interested in include: 
-- Fullstack development  
-- Database design (checkout [Kagi
+- Fullstack development (checkout [Hogwash](https://github.com/amohamed11/hogwash))
+- Database design (checkout [Kagi](https://github.com/amohamed11/kagi))
 - Distributed systems  
 
 ### 🌳 Comfortable with
