@@ -3,23 +3,16 @@ Call me Anas.
 [![Anas' github stats](https://github-readme-stats.vercel.app/api?username=amohamed11&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🧔🏿 About me
-Hi there 👋🏿, my name is Anas & I’m currently wrapping up my final year of Computing Science @ University of Alberta.  
-I like learning new things & fiddling with stuff.  
+Hi there 👋🏿, my name is Anas.
+I’ve just finished wrapping up my degree in Computing Science @ UAlberta.  
+I enjoy learning & fiddling with technologies.  
 Areas I'm interested in include: 
-- Fullstack development (checkout [Hogwash](https://github.com/amohamed11/hogwash))
 - Database design (checkout [Kagi](https://github.com/amohamed11/kagi))
-- Distributed systems  
+- Distributed systems
+- Full-stack development (checkout [Hogwash](https://github.com/amohamed11/hogwash))
 
-### 🌳 Comfortable with
-- Fullstack web applications, socket programming, and machine learning.  
-- Languages/frameworks/libraries: checkout my projects to see what I'm using lately.    
-- Microservices, TDD, setting up CI/CD, and deploying to Heroku, AWS, and Azure.  
-
-### 🌱 Learning
+### 🌱 Currently learning
 - Go
-- Distributed Systems (MPI, SIMD/MIMD)  
-- Security (Public-key Cryptography, Authentication & Networking protocols).
+- Compilers & Interpreters design
 
-
-📫 Check out my personal website [amohamed.io](http://amohamed.io)
-
+📫 personal blog: [https://amohamed.io/](https://amohamed.io/)
