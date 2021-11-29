@@ -19,5 +19,5 @@ Areas I'm interested in include:
 - Rust
 - Compilers & Interpreters design
 
-personal blog: [https://anecdotalthoughts.com](https://anecdotalthoughts.com/)
+personal blog: [https://anecdotalthoughts.com](https://anecdotalthoughts.com/)  
 email: [first name]@[my personal domain]
