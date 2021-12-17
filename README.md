@@ -20,4 +20,4 @@ Areas I'm interested in include:
 - Compilers & Interpreters design
 
 personal blog: [https://anecdotalthoughts.com](https://anecdotalthoughts.com/)  
-email: [first name]@[my personal domain]
+contact: mail at amohamed dot ca
