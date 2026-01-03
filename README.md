@@ -13,5 +13,4 @@ Areas I'm interested in include:
 - Dipping my feet into Systems programming
 - Fighting an eldritch horror in a liminal space  
 
-personal blog: [https://anecdotalthoughts.com](https://anecdotalthoughts.com/)  
 contact: mail at amohamed dot ca
